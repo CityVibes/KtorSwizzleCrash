@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ext.jskripkauskas/Workspace/TestCrash/shared/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "/Users/ext.jskripkauskas/.gradle/caches/transforms-2/files-2.1/129e66c0fba5ff6f84fb5ec39e43a49f/material-1.2.0/res/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "/Users/ext.jskripkauskas/Workspace/TestCrash/shared/build/intermediates/res/merged/release/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "/Users/ext.jskripkauskas/.gradle/caches/transforms-2/files-2.1/129e66c0fba5ff6f84fb5ec39e43a49f/material-1.2.0/res/xml/standalone_badge_gravity_bottom_start.xml"
+    },
+    {
+        "merged": "/Users/ext.jskripkauskas/Workspace/TestCrash/shared/build/intermediates/res/merged/release/xml/standalone_badge_gravity_top_start.xml",
+        "source": "/Users/ext.jskripkauskas/.gradle/caches/transforms-2/files-2.1/129e66c0fba5ff6f84fb5ec39e43a49f/material-1.2.0/res/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "/Users/ext.jskripkauskas/Workspace/TestCrash/shared/build/intermediates/res/merged/release/xml/standalone_badge_offset.xml",
+        "source": "/Users/ext.jskripkauskas/.gradle/caches/transforms-2/files-2.1/129e66c0fba5ff6f84fb5ec39e43a49f/material-1.2.0/res/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "/Users/ext.jskripkauskas/Workspace/TestCrash/shared/build/intermediates/res/merged/release/xml/standalone_badge.xml",
+        "source": "/Users/ext.jskripkauskas/.gradle/caches/transforms-2/files-2.1/129e66c0fba5ff6f84fb5ec39e43a49f/material-1.2.0/res/xml/standalone_badge.xml"
+    }
+]

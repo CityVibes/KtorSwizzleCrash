@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml:2:1-111
+INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml:2:1-111
+INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml:2:1-111
+INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml:2:1-111
+INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml:2:1-111
+INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml:2:1-111
+INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml:2:1-111
+	package
+		ADDED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml:2:70-109
+		INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml:2:1-111
+		INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml:2:1-111
+		INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/ext.jskripkauskas/Workspace/TestCrash/shared/src/androidMain/AndroidManifest.xml

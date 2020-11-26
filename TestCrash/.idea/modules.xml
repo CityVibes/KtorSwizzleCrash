@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestCrash.iml" filepath="$PROJECT_DIR$/.idea/modules/TestCrash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidApp/TestCrash.androidApp.iml" filepath="$PROJECT_DIR$/.idea/modules/androidApp/TestCrash.androidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.commonMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.commonTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosArm64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosArm64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosArm64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosArm64Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosMain.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosTest.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosX64Main.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosX64Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosX64Test.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/TestCrash.shared.iosX64Test.iml" />
+    </modules>
+  </component>
+</project>

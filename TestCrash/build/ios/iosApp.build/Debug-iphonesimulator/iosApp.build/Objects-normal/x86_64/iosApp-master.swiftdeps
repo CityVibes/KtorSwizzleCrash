@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "dee4ce9aa7ce9154f0766d0f1773b308"
+build_time: [1603450027, 751458000]
+inputs:
+  "/Users/ext.jskripkauskas/Workspace/TestCrash/iosApp/iosApp/AppDelegate.swift": [1603448879, 735430997]
+  "/Users/ext.jskripkauskas/Workspace/TestCrash/iosApp/iosApp/SceneDelegate.swift": [1603448879, 737809689]
+  "/Users/ext.jskripkauskas/Workspace/TestCrash/iosApp/iosApp/ContentView.swift": [1603448879, 736927609]
